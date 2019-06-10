@@ -31,6 +31,8 @@ npm run dev
 
 打包到生产环境
 ```
+"webpack-bundle-analyzer": "^2.2.1",
+"axios": "^0.16.2",
 npm run build
 ```
 
