@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
-    "axios": "^0.16.2",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
     "babel-plugin-transform-runtime": "^6.22.0",
@@ -76,7 +75,6 @@
     "vue-template-compiler": "^2.2.4",
     "vue-touch-ripple": "2.3.4",
     "webpack": "^2.2.1",
-    "webpack-bundle-analyzer": "^2.2.1",
     "webpack-dev-middleware": "^1.10.0",
     "webpack-hot-middleware": "^2.16.1",
     "webpack-merge": "^2.6.1"
